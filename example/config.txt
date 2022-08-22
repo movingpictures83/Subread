@@ -1,0 +1,2 @@
+Prefix plugins/Subread/example
+Plugin Subread inputfile parameters.txt outputfile output_subread.txt

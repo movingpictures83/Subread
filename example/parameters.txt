@@ -1,0 +1,4 @@
+index	plugins/Subread/example/Human_SubRead
+forward	plugins/Subread/example/S12_R1.fastq
+reverse	plugins/Subread/example/S12_R2.fastq
+DNA	0
